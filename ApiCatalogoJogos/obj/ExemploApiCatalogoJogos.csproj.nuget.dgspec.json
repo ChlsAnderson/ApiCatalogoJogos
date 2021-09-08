@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {}
+    "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\Refatorar\\ExemploApiCatalogoJogos\\ExemploApiCatalogoJogos.csproj": {}
   },
   "projects": {
-    "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {
+    "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\Refatorar\\ExemploApiCatalogoJogos\\ExemploApiCatalogoJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
-        "projectName": "ApiCatalogoJogos",
-        "projectPath": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+        "projectUniqueName": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\Refatorar\\ExemploApiCatalogoJogos\\ExemploApiCatalogoJogos.csproj",
+        "projectName": "ExemploApiCatalogoJogos",
+        "projectPath": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\Refatorar\\ExemploApiCatalogoJogos\\ExemploApiCatalogoJogos.csproj",
         "packagesPath": "C:\\Users\\charles\\.nuget\\packages\\",
-        "outputPath": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\ApiCatalogoJogos\\ApiCatalogoJogos\\obj\\",
+        "outputPath": "E:\\SANDISK\\Pessoal\\Apostilas_e_aplicativos\\Projetos\\git\\Treinamentos\\everisNewTalents-DotNet\\Projeto\\Refatorar\\ExemploApiCatalogoJogos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
